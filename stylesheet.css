@@ -1,0 +1,20 @@
+body
+{
+  color: #AF1E2C;
+font-family: ChunkFiveRoman,arial,sans-serif;
+font-size: 300px;
+height: 30px;
+line-height: 26px;
+padding: 8px 15px 0;
+text-align: left;
+text-transform: uppercase;
+}
+h1
+{
+  color: red;
+  font-size:300px
+}
+img{
+  height: 600px;
+  width:800px;
+}
